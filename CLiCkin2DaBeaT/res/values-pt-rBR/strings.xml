@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="hello">CLiCkin 2 Da BeaT</string>
+<string name="app_name">CLiCkin 2 Da BeaT</string>
+
+<string name="c2bCreatorMessage">Criar palco a partir de vídeo</string>
+<string name="NEED_SD_CARD">Impossível criar palco. Por favor insira um cartão SD com pelo menos alguns kb de espaço disponível.</string>
+<string name="STAGE_CREATED">Palco Criado!</string>
+
+<string name="PROCESSING">Processando, por favor aguarde</string>
+<string name="BEATS_SET">Batidas definidas com sucesso!</string>
+<string name="NO_BEATS">Nenhuma batida para</string>
+<string name="ONE_PASS">Usar o método 1-pass para definir as batidas</string>
+<string name="TWO_PASS">Usar o método 2-pass para definir as batidas (sincronização de batida é mais precisa)</string>
+<string name="CHOOSE_STAGE">Escolha seu palco</string>
+<string name="EDIT_WARNING">Alterar as batidas para este palco irá apagar as batidas que já foram definidas - você não pode desfazer isso.</string>
+<string name="EDIT_CONFIRMATION">Tem certeza de que deseja alterar este palco?</string>
+<string name="TWO_PASS_INFO">Para o primeiro passo de definição das batidas, concentre-se em tocar no ritmo. Tente acertar cada batida na música. Onde você tocar não importa; você definirá os locais alvo no próximo passo.</string>
+<string name="ONE_PASS_INFO">Toque na tela quando e onde você quer que os alvos apareçam.</string>
+<string name="NO_STAGES_INFO">Parece que você não tem nenhum palco no seu cartão SD. Você deveria ir buscar algumas. Ou melhor ainda, contribua para a sociedade fazendo alguma você mesmo. Escolha um vídeo de http://m.youtube.com no navegador, defina as batidas, e compartilhe sua criação.  :D</string>
+<string name="NO_STAGES_FOUND">Nenhum palco encontrado.   :(</string>
+<string name="SHUT_UP">Cale-se, eu quero tocar. AGORA!</string>
+<string name="ILL_GET_STAGES">Ok, tudo bem. Eu vou ir pegar alguns palcos.</string>
+<string name="BEAT_SETTING_INFO">Informação para definir as batidas</string>
+
+<string name="STILL_BUSY">Desculpe, mas eu ainda estou tentando processar as batidas. @_@\' Por favor aguarde.</string>
+<string name="WELCOME">Bem-vindo ao CLiCkin\' 2 Da BeaT (Beta)</string>
+
+<string name="BETA_MESSAGE">Este é um jogo rítmico/musical de código aberto. Está em beta neste momento e ajustes são necessários, mas eu estou lançando antes e frequentemente para dar o poder a VOCÊ de ajudar a moldar este jogo. Por favor verifique frequentemente por atualizações. Estarei feliz em receber comentários e patches de código. Aproveite o jogo! :D   -Charles</string>
+<string name="VISIT_WEBSITE">Visitar website</string>
+<string name="START_GAME">Começar a jogar</string>
+<string name="QUIT">Sair</string>
+
+<string name="MOAR_STAGES">Me dê mais palcos!</string>
+<string name="UPDATE_AVAILABLE">Atualização disponível</string>
+<string name="UPDATE_MESSAGE">Gostaria de atualizar o CLiCkin 2 Da BeaT?</string>
+</resources>
